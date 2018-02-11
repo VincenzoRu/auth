@@ -5,15 +5,15 @@
 
 The main goal of the project was to create a decentralized, secured and anonymous login in which You own Your data and not the websites. 
 
-**Main points:**
-	- decentralized. One Id and pass for infinite websites
-	- secure. Id is securely and immutably crypted on the Ethereum blockchain
-	- hackers who manage to steal the website's information will have no information of your data (login, passwords, etc.)
-	- Ownership
-	- anonymous
-	- No password manager needed anymore. Passwords are stored nowhere. Not on **[name]**, not either the blochchain. It uses the
-	- Easy to install and configure
-	- Developers who wish to employ a decentralized login on their new or existing websites will have a simple framework ([name].js)
+## Main points:
+- Decentralized. One Id and pass for infinite websites
+- Secure. Id is securely and immutably crypted on the Ethereum blockchain
+- hackers who manage to steal the website's information will have no information of your data (login, passwords, etc.)
+- Ownership. You only have access to the your data.
+- Anonymous. IDs are anonymously stored on the blockchain as randomly generated numbers and letters.
+- No password manager needed anymore. Passwords are stored nowhere. Not on **[name]**, not either the blochchain. It uses the
+- Easy to install and configure
+- Developers who wish to employ a decentralized login on their new or existing websites will have a simple framework ([name].js)
 
 ## Below a preliminary workflow of the [name] features
 
