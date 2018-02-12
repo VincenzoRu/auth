@@ -24,7 +24,6 @@ The main goal of the project was to create a decentralized, secured and anonymou
 - ERC725
 
 ## To discuss:
-- Target the French market first?
 - Dapp as Plugin Firefox or webservice(but risk of phishing)
 
 ## To work on:
